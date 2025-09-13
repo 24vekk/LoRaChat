@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_change_lora_speed"
+        android:title="Изменить скорость LoRa"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_change_password"
+        android:title="Изменить пароль"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_switch_chat"
+        android:title="Переключить чат"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_contact"
+        android:title="Добавить контакт"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_instruction"
+        android:title="Инструкция"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ble_connect"
+        android:title="BLE подключение"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_ble_disconnect"
+        android:title="Отключить BLE"
+        android:visible="false"
+        app:showAsAction="never"/>
+</menu>

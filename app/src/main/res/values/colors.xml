@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="colorPrimary">#FF5722</color> <!-- Оранжевый -->
+    <color name="colorPrimaryDark">#E64A19</color> <!-- Темно-оранжевый -->
+    <color name="colorAccent">#FF9800</color> <!-- Ярко-оранжевый -->
+
+    <!-- Цвета текста -->
+    <color name="colorRecieveText">#FFCC80</color> <!-- Светло-оранжевый для полученных сообщений -->
+    <color name="colorSendText">#FFA726</color> <!-- Оранжевый для отправленных сообщений -->
+    <color name="colorStatusText">#FFB74D</color> <!-- Оранжевый для статуса -->
+
+    <!-- Дополнительные цвета -->
+    <color name="black">#000000</color> <!-- Черный (оставлен без изменений) -->
+    <color name="message_background_color">#FFF3E0</color> <!-- Светло-оранжевый фон для сообщений -->
+
+    <color name="purple_200">#FF5722</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="orange">#FF9800</color>
+    <color name="orange_dark">#F57C00</color>
+</resources>

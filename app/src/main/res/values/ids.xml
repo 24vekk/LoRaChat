@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_get_config" type="id" />
+    <item name="action_remote_lora_off" type="id" />
+    <item name="action_restart" type="id" />
+</resources>
